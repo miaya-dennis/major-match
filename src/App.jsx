@@ -14,7 +14,7 @@ function App() {
     return <h1>Loading...</h1>
   }
 
-//Health filter
+/*Health filter
   function filterHealthMajors(item) {
     return item["Major_category"] === "Health"
   }
@@ -27,7 +27,7 @@ function App() {
       <p>Average Income: {item.Median}</p>
       <p>Employment: {item.Employed}</p>
     </article>
-  ) )
+  ) )*/
 //Education filter
    function filterEducationMajors(item) {
     return item["Major_category"] === "Education"
@@ -97,12 +97,6 @@ function App() {
       <img src="https://plus.unsplash.com/premium_photo-1770188615456-f23dc1c686bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" />
       <p>Find the best major for your future!</p>
 
-      <div>
-      <h1>Health Majors</h1>
-      <div className="grid">
-        { healthSection } 
-      </div>
-    </div>
 
     <div>
       <h1>Education Majors</h1>

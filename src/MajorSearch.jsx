@@ -17,10 +17,10 @@ const [query, setQuery] = useState("")
 
 return (
   <div>
-      <h1>Find Your Major</h1>
       <input type="text" id="query" />
       <button>Search</button>
       {Major.map((MajorSearch) => <p key={MajorSearch.id} className="card">{MajorSearch.Name}</p>)}
+     
     </div>
   )
 }
