@@ -1,6 +1,12 @@
 # Major Match
 
-A app designed to help you find your perfect degree and potential career!
+
+ ## Goal
+An app designed to help one find their perfect degree and potential career!
+
 
 ## Data Set
 college majors & incomes from code.org
+
+##Links
+https://github.com/miaya-dennis/major-match
