@@ -9,10 +9,10 @@ Major Match is an app designed to help one find their perfect degree and potenti
 ## Data Set
 college majors & incomes from code.org
 
-##Accountability Partner:
+## Accountability Partner:
 Danielle 
 
-##Links
+## Links
 https://github.com/miaya-dennis/major-match
 https://major-match1.netlify.app/
 
